@@ -1,2 +1,2 @@
-0x00. Python - Hello, Worl
-learning python 
+learning python from alx 
+0x00 python 
